@@ -3,7 +3,7 @@
 
 <div style="text-align: justify">
 
-This is a class project for the course 'Introduction to Machine Learning and Data Mining' at UBC. We worked in a group of 2 people and wrote a term paper (page limited). 
+This is a class project for the course 'Introduction to Machine Learning and Data Mining' at UBC. We worked in a group of 2 people and wrote a short term paper (page limited). 
  <br/>
 Abstract is given below: 
  <br/>
